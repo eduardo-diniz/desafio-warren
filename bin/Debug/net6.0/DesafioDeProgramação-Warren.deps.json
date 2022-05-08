@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesafioDeProgramação-Warren/1.0.0": {
+        "runtime": {
+          "DesafioDeProgramação-Warren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioDeProgramação-Warren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
