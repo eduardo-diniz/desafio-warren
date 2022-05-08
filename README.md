@@ -45,15 +45,15 @@ Ao executar o código acima os 3 desafios serão executados:
 
 Saída do primeiro desafio:
 
-<img align="center" alt="Logo-Csharp" height="200" width="320" src="https://user-images.githubusercontent.com/48698163/167280015-966584af-ce36-41b9-b47a-569ce34c21f4.png"> 
+<img align="center" alt="Logo-Csharp" height="220" width="380" src="https://user-images.githubusercontent.com/48698163/167305950-ce589133-2f44-4361-ab13-62ae535937ba.png"> 
 
 Para o segundo desafio será necessário fornecer os seguintes dados:
 
-<img align="center" alt="Logo-Csharp" height="200" width="320" src="https://user-images.githubusercontent.com/48698163/167279998-bc6313f7-6eb9-4069-a9a3-74a43e7c3a25.png"> 
+<img align="center" alt="Logo-Csharp" height="220" width="380" src="https://user-images.githubusercontent.com/48698163/167305970-fa71966d-dc36-4fb3-8ce7-3ff1a2b898ea.png"> 
 
 Saída do terceiro desafio:
 
-<img align="center" alt="Logo-Csharp" height="150" width="260" src="https://user-images.githubusercontent.com/48698163/167280303-fcda4dbf-bc88-4c94-964a-f93e4e84a42d.png"> 
+<img align="center" alt="Logo-Csharp" height="130" width="380" src="https://user-images.githubusercontent.com/48698163/167306184-fe0dcf28-8007-4af0-9be0-4b98d1470c77.png"> 
 
 ### Autor
 Eduardo-Diniz
