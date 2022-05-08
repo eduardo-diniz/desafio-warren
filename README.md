@@ -4,7 +4,8 @@ Projeto criado para o processo seletivo da Warren Tech Academy.
 ## Ferramentas utilizadas
 
 <img align="center" alt="Logo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="Logo-vsCode" height="30" width="40" src="https://symbols.getvecta.com/stencil_100/49_visual-studio-code-icon.b511a398fd.svg">
-<img align="center" alt="Logo-dotnet" height="35" width="45" src="https://user-images.githubusercontent.com/48698163/167280163-22e2e437-6433-4977-aebe-01ec529971bd.png">
+
+<img align="center" alt="Logo-dotnet" height="30" width="30" src="https://user-images.githubusercontent.com/48698163/167280163-22e2e437-6433-4977-aebe-01ec529971bd.png">
 
 
 
