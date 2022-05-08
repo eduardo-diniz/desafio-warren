@@ -1,7 +1,5 @@
 # desafio-warren
 Projeto criado para o processo seletivo da Warren Tech Academy.
-# desafio-warren
-Projeto criado para o processo seletivo da Warren Tech Academy.
 
 ## Ferramentas utilizadas
 
